@@ -1,0 +1,94 @@
+Privacy Policy for Repli  
+Effective Date: March 2026  
+
+Repli (“we”, “our”, or “us”) respects your privacy and is committed to protecting your information. This Privacy Policy explains what data we collect, how we use it, and your rights.
+
+---
+
+### 1. Information We Collect
+
+We may collect the following information when you use Repli:
+
+Account Information
+- Name (if provided)
+- Email address  
+- Login credentials (securely managed via authentication providers)
+
+User Content
+- Messages or text you input to generate replies  
+- Style preferences and tone settings  
+
+Usage Data
+- App interactions (e.g., features used, actions taken)  
+- Device type and general diagnostics  
+
+---
+
+### 2. How We Use Your Information
+
+We use your information to:
+- Provide and improve Repli’s features  
+- Generate personalized replies based on your input  
+- Maintain and secure your account  
+- Improve performance and user experience  
+
+---
+
+### 3. Data Storage and Security
+
+We use trusted third-party services (such as Supabase and authentication providers) to securely store and process data.  
+We take reasonable measures to protect your information from unauthorized access.
+
+---
+
+### 4. Third-Party Services
+
+Repli may use third-party services for:
+- Authentication (e.g., Apple Sign In, Google Sign In)  
+- Backend infrastructure (e.g., Supabase)  
+
+These services may collect and process data according to their own privacy policies.
+
+---
+
+### 5. Data Sharing
+
+We do not sell your personal data.  
+We only share data when necessary to:
+- Provide core app functionality  
+- Comply with legal obligations  
+
+---
+
+### 6. Your Rights
+
+You may:
+- Request access to your data  
+- Request deletion of your account and associated data  
+- Contact us for any privacy-related concerns  
+
+---
+
+### 7. Children’s Privacy
+
+Repli is not intended for children under 13.  
+We do not knowingly collect data from children.
+
+---
+
+### 8. Changes to This Policy
+
+We may update this Privacy Policy from time to time.  
+Updates will be posted within the app or on our website.
+
+---
+
+### 9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: support@repli.app (replace with your real email)
+
+---
+
+By using Repli, you agree to this Privacy Policy.
